@@ -19,4 +19,4 @@ A high-performance face matching application built with **Python** and **Streaml
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [[https://github.com/arti-codes/ArtiFace-AI](https://github.com/arti-codes/FaceSync).git]
+   git clone [https://github.com/arti-codes/FaceSync.git](https://github.com/arti-codes/FaceSync.git)
