@@ -1,5 +1,6 @@
-streamlit
-face_recognition
-numpy
-Pillow
+cmake
 dlib
+face-recognition
+numpy
+streamlit
+Pillow
